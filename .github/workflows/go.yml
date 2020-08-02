@@ -90,4 +90,3 @@ jobs:
           name: MiraiOK_binary
           # A file, directory or wildcard pattern that describes what to upload
           path: "output"
-
